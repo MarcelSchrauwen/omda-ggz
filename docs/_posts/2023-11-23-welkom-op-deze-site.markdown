@@ -19,7 +19,7 @@ De link naar de website zal spoedig toegevoegd worden.
 Ben je zelf werkzaam binnen de GGZ en doe je daar "architectuur dingen"? Dan nodig ik je graag uit om mee de denken, kritische vragen te stellen, feedback te geven, etc. Maak dan even een Github account aan zodat je zelf een nieuwe [Issue](https://github.com/MarcelSchrauwen/omda-ggz/issues) aan kunt maken. Omdat ik tijdens mijn VZVZ uren beperkt tijd heb om aan deze omgeving te werken zal ik over het algemeen pas op donderdag of vrijdag kunnen reageren of in de avond of in het weekend. Wil je liever geen issue aanmaken maar wel in contact komen. Stuur me dan gerust een mailje.
 <br><br/>
 
-> Marcel Schrauwen<br/>
-> Business architect voor GGZ<br/>
-> VZVZ<br/>
-> marcel.schrauwen@vzvz.nl
+Marcel Schrauwen<br/>
+Business architect voor GGZ<br/>
+VZVZ<br/>
+marcel.schrauwen@vzvz.nl
