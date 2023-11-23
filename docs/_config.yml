@@ -22,7 +22,7 @@ title: Ondersteunen met digitale architectuur - GGZ
 email: marcel.schrauwen@vzvz.nl
 description: >- # this means to ignore newlines until "baseurl:"
  Digitalisering, Interoperabiliteit, Digitale-Architectuur, Zorg, GGZ.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "omda-ggz" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  MarcelSchrauwen
