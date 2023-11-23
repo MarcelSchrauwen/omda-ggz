@@ -3,11 +3,11 @@ Via deze plek wil ik graag zo veel mogelijk eigen kennis delen met als doel de s
 <br><br/>
 
 ## Wat, hoe, wanneer?
-Deze plek zal gaan bestaan uit een website waarbinnen ik diverse onderwerpen zal gaan uitwerken. Wil je weten welke onderwerpen dat zijn en wil je de voortgang ervan wellicht ook volgen dan zijn deze terug te vinden via de pagina [Issues](https://github.com/MarcelSchrauwen/omda-ggz/issues)
+Deze plek zal gaan bestaan uit een website waarbinnen ik diverse onderwerpen zal gaan uitwerken. Wil je weten welke onderwerpen dat zijn en wil je de voortgang ervan wellicht ook volgen dan zijn deze terug te vinden via de pagina [Issues](https://github.com/MarcelSchrauwen/omda-ggz/issues) of via het [kanbanbord](https://github.com/users/MarcelSchrauwen/projects/5/views/1).
 <br><br/>
 
 ## Waar?
-De link naar de website zal spoedig toegevoegd worden (zie [Issues](https://github.com/MarcelSchrauwen/omda-ggz/issues) om ook dit te volgen)
+De link naar de website zal spoedig toegevoegd worden.
 <br><br/>
 
 ## Ideëen, vragen, Feedback
@@ -15,6 +15,6 @@ Ben je zelf werkzaam binnen de GGZ en doe je daar "architectuur dingen"? Dan nod
 <br><br/>
 
 > Marcel Schrauwen<br/>
-> Business architectu voor GGZ<br/>
+> Business architect voor GGZ<br/>
 > VZVZ<br/>
 > marcel.schrauwen@vzvz.nl
