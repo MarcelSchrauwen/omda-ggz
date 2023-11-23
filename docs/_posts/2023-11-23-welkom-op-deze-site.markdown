@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome op deze site"
+title:  "WelKom op deze site"
 date:   2023-11-23 14:53:00 +1:00
 categories: jekyll update
 ---
