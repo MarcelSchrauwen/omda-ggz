@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome op deze site"
 date:   2023-11-23 14:53
-categories: Algemeen
+categories: jekyll update
 ---
 Via deze plek wil ik graag zo veel mogelijk eigen kennis delen met als doel de sector GGZ te ondersteunen bij het oplossen van digitale vraagstukken. Om digitalisering en interoperabiliteit goed voor elkaar te krijgen binnen een instelling of andere vorm van samenwerking is het essentieel om daar vat op te krijgen. Een archtitect kan hierbij ondersteunen door het in kaart brengen van het gehele huidige informatielandschap om het vervolgens te begeleiden naar het gewenste informatielandschap. We noemen dit vaak "Werken onder architectuur", iets wat in de praktijk niet altijd even goed uit de verf komt weet ik uit eigen ervaring.
 <br><br/>
