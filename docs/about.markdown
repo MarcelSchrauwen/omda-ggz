@@ -21,9 +21,9 @@ marcel.schrauwen@vzvz.nl
 <br><br/>
 
 ---
-[^1]: Digitalisering: De dingen die je voorheen niet-digitaal deed in digitale vorm gaan doen, zoals het opbouwen van een medisch dossier.<br/>
-[^2]: Interoperabiliteit: Het vermogen om zonder beperkingen samen te kunnen werken. Dit geldt zowel voor mensen als voor informatiesystemen.<br/>
-[^3]: Informatielandschap: Het geheel van processen, mensen en ondersteunende informatiesystemen met als kern informatieverwerking.<br/>
+[^1]: Digitalisering: De dingen die je voorheen niet-digitaal deed in digitale vorm gaan doen, zoals het opbouwen van een medisch dossier.
+[^2]: Interoperabiliteit: Het vermogen om zonder beperkingen samen te kunnen werken. Dit geldt zowel voor mensen als voor informatiesystemen.
+[^3]: Informatielandschap: Het geheel van processen, mensen en ondersteunende informatiesystemen met als kern informatieverwerking.
 
 
 
