@@ -30,7 +30,7 @@ url: "https://github.com/MarcelSchrauwen" # the base hostname & protocol for you
 github_username:  MarcelSchrauwen
 
 # Build settings
-theme: minima
+theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
 
