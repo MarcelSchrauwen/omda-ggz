@@ -21,3 +21,6 @@ marcel.schrauwen@vzvz.nl
 
 [^1]: Digitalisering: De dingen die je voorheen niet-digitaal deed in digitale vorm gaan doen, zoals het opbouwen van een medisch dossier.
 
+Digitalisering
+: De dingen die je voorheen niet-digitaal deed in digitale vorm gaan doen, zoals het opbouwen van een medisch dossier.
+
